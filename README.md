@@ -32,7 +32,7 @@ This is a **React.js** project that allows users to generate **strong passwords*
  
 
 ## 🚀 Deployment
-- [Live Demo](https://your-deployed-url.vercel.app)
+- [Live Demo](https://www.passwordgen.xyz/)
 
  
 
